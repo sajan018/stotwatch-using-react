@@ -8,7 +8,6 @@ const Stopwatch = () => {
     let updMin = time.min;
     let updSec = time.sec;
     let updMilli = time.milli;
-    s
 
 
     const start = () =>{
